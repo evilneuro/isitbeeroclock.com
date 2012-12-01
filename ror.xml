@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://isitbeeroclock.com/</title>
+  <link>http://isitbeeroclock.com/</link>
+  <item>
+    <title>ROR Sitemap for http://isitbeeroclock.com/</title>
+    <link>http://isitbeeroclock.com/</link>
+    <ror:about>sitemap</ror:about>
+    <ror:type>SiteMap</ror:type>
+  </item>
+
+<item>
+     <link>http://isitbeeroclock.com/</link>
+     <title>Is it Beer o'Clock?</title>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

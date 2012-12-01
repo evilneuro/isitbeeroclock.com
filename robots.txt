@@ -1,0 +1,8 @@
+# /robots.txt for isitbeeroclock.com
+# comments to neuro@well.com
+
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: *
+Disallow: 
