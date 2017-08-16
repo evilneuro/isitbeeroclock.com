@@ -15,8 +15,10 @@ a:active { color:black; text-decoration:none; }
   font-weight: bold;
   letter-spacing: -1px;
   line-height: 1;
+  background-color: #ffffff;
 }
 .jumbotron a:hover { color: black; text-decoration: none; }
 
 .subtitle { font-size: 9px; }
 .subtitle a:hover { color: black; text-decoration: none; }
+
