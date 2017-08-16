@@ -10,13 +10,6 @@ var pageTracker = _gat._getTracker("UA-91192-4");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<script type="text/javascript">
-_qoptions={
-qacct:"p-88mwWt9RJ4G1g"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-88mwWt9RJ4G1g.gif" style="display: none;" border="0" height="1" width="1" alt=""/>
-</noscript>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body></html>
