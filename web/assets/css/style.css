@@ -2,7 +2,6 @@ body {
   font-size: 13px;
   font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-weight: 400;
-  margin-top: 60px;
 }
 
 a:link { color:black; text-decoration:none; }
@@ -10,7 +9,7 @@ a:visited { color:black; text-decoration:none; }
 a:hover { color:black; text-decoration:none; }
 a:active { color:black; text-decoration:none; }
 
-.cover-heading { font-size: 240px; }
+.cover-heading { font-size: 240px; font-weight: bold; }
 .jumbotron {
   font-size: 240px;
   font-weight: bold;
