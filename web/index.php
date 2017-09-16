@@ -1,20 +1,43 @@
-<?php
-error_reporting(E_ALL);
-ini_set('display_errors','1');
-include "assets/inc/page-start.inc";
-?>
+<?php ?>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="wpa.io"/>
+<title>Is it Beer o'Clock?</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:300,400,700,300italic,400italic,700italic" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Inconsolata" />
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.8.0/css/flag-icon.css" />
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link href="assets/css/style.css" rel="stylesheet">
+<link href="assets/css/cover.css" rel="stylesheet">
+</head>
 
-<div class="row">
-<div class="col-xs-12" style="height: 100%; vertical-align: middle; padding-top: 200px;">
-<div class="row">
-<div class="col-xs-12" style="text-align: center">
-<h1 class="jumbotron"><a href="http://beeroverip.org/" title="YES - click for a Beer-over-IP">YES</a></h1>
-<p class="subtitle"><a href="http://beeroverip.org/">hint: it's <strong>always</strong> beer o'clock</a></p>
-</div>
-</div>
-</div>
-</div>
-
-<?php
-include "assets/inc/page-stop.inc";
-?>
+<body>
+    <div class="site-wrapper">
+        <div class="site-wrapper-inner">
+            <div class="cover-container">
+                <div class="inner cover">
+                    <h1 class="cover-heading">YES</h1>
+                    <p class="lead"><small>Hint: it's <strong>always</strong> beer o'clock.</small></p>
+                    <p class="lead">
+                    <a href="http://beeroverip.org/" class="btn btn-sm btn-outline-dark">Have a Beer-Over-IP</a>
+                    </p>
+                </div>
+                <div class="mastfoot">
+                    <div class="inner">
+                        <p><small>Made in <span class="flag-icon flag-icon-gb-sct flag-icon-squared" title="Scotland"></span> with <font color="#f00"><i class="fa fa-heart"></i></font> by <a href="https://wpa.io/">neuro</a>.</small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="//code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+    <script src="//maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>
