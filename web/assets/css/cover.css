@@ -10,11 +10,8 @@ a:hover {
 }
 
 /* Custom default button */
-.btn-secondary {
+.btn-dark {
   color: #fff;
-  text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #000;
-  border: .05rem solid #000;
 }
 
 
